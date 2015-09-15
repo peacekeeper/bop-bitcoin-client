@@ -3,3 +3,7 @@
 atlassian-ide-plugin.xml
 target
 *.versionsBackup
+.classpath
+.project
+/.settings/
+/bin/
